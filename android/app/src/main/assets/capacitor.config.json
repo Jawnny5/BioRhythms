@@ -1,0 +1,13 @@
+{
+	"appId": "org.uhhwat.cccmeter",
+	"appName": "CCCMeter",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {}
+}

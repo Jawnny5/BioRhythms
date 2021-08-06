@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CCCMeter</string>
+    <string name="title_activity_main">CCCMeter</string>
+    <string name="package_name">org.uhhwat.cccmeter</string>
+    <string name="custom_url_scheme">org.uhhwat.cccmeter</string>
+</resources>
